@@ -37,7 +37,8 @@ Atualmente Estudando microserviços.
   ## Objetivo
   
   Atuar como profissional especializado nas tecnologias de ponta, incluindo, administração, implantação e suporte de infraestrutura em ambientes de redes tecnológica de computadores, cloud computer,cultura devops/sre, sistema operacional windows e Linux .
-  ##Contato
+  
+  ## Contato
   
   andersonoctacilio@gmail.com
   
