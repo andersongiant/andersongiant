@@ -1,4 +1,8 @@
 ### Ola! Eu sou Anderson Octacilio 👋
+Hoje trabalho como SRE. 
+
+Estudando microserviços.
+
 
 [![linkdien](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-octac%C3%ADlio-73443162/)
 
