@@ -6,6 +6,7 @@ Atualmente Estudando microserviços.
 
 [![linkdien](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-octac%C3%ADlio-73443162/)
 
+
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
@@ -36,6 +37,8 @@ Atualmente Estudando microserviços.
   ## Objetivo
   
   Atuar como profissional especializado nas tecnologias de ponta, incluindo, administração, implantação e suporte de infraestrutura em ambientes de redes tecnológica de computadores, cloud computer,cultura devops/sre, sistema operacional windows e Linux .
+  ##Contato
   
+  andersonoctacilio@gmail.com
   
   ![snake gif](https://github.com/andersongiant/andersongiant/blob/output/github-contribution-grid-snake.svg)
