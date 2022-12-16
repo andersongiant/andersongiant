@@ -31,6 +31,7 @@ Atualmente Estudando microserviços.
   <img align="center" alt="ht,;5" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="ht,;5" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="ht,;5" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  
   </div><br/>
   
   
